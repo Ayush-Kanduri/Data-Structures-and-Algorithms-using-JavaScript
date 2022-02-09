@@ -1,0 +1,31 @@
+{
+  "name": "data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "This repository contains DSA using Javascript along with some mixed level problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush-Kanduri/Data-Structures-and-Algorithms-using-JavaScript.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "and",
+    "algorithms"
+  ],
+  "author": "ayush kanduri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayush-Kanduri/Data-Structures-and-Algorithms-using-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Ayush-Kanduri/Data-Structures-and-Algorithms-using-JavaScript#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
+  }
+}
