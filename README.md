@@ -7,7 +7,7 @@ This repository contains DSA using Javascript along with some mixed level proble
 <img height="140" width="140" src="https://logodix.com/logo/470309.png">
 <img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 <img height="140" width="140" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
-<img height="140" width="140" src="https://miro.medium.com/max/1400/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg">
+<img height="140" width="200" src="https://miro.medium.com/max/1400/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg">
 </p>
 
 * Library: None
