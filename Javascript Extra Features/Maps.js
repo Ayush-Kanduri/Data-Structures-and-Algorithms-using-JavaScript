@@ -1,5 +1,5 @@
 //Maps are used in place of objects when we want to use key value pairs in an effective and efficient manner.
-//Maps are used to store key value pairs. It is used for objects. It remembers the original insertion order of the keys.
+//Maps are used to store unique key value pairs. It is used for objects. It remembers the original insertion order of the keys.
 
 let map1 = new Map([
 	["name", "John"],
