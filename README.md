@@ -22,7 +22,7 @@ This repository contains DSA using Javascript along with some mixed level proble
 
 #
 
-#DATA STRUCTURES - ALGORITHMS
+# DATA STRUCTURES - ALGORITHMS
 
 #
 
