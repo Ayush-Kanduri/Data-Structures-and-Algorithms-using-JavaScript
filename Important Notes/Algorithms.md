@@ -11,10 +11,14 @@
 
 #
 
+#
+
 ## 2. Trailing Zeroes
 
 -  TZ(n!) = Floor(n/5^1) + Floor(n/5^2) + Floor(n/5^3) ......<br />
    Till Floor(n/5^i) !== 0
+
+#
 
 #
 
@@ -26,16 +30,18 @@
 
 #
 
+#
+
 ## 4. Prime Numbers
 
-### Naive's Algorithm
+> ### Naive's Algorithm
 
 -  fixing a number & then iterating over a range of numbers or letters.
    usually 2-3 nested loops.
    usually used for string pattern matching, array sum, etc.
    Inefficient Approach.
 
-### Sieve Of Eratosthenes Algorithm
+> ### Sieve Of Eratosthenes Algorithm
 
 -  1 2 3 4 5 6 7 8 9 10 11 12<br />
    F T T F T F T F F F T F - Boolean Array<br />
@@ -52,3 +58,7 @@
    j=2\*i => starts from 2nd multiple of i<br />
    j<=n => goes till n<br />
    j+=i => jumps in multiples of i
+
+#
+
+#
