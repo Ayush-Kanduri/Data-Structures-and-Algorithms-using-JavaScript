@@ -1,4 +1,4 @@
-## 1. GCD, HCF, LCM
+> ## GCD, HCF, LCM
 
 ### Euclidean Algorithm
 
