@@ -1,6 +1,6 @@
-> ## GCD, HCF, LCM
+## 1. GCD, HCF, LCM
 
-### Euclidean Algorithm
+> ### Euclidean Algorithm
 
 -  GCD(a, b) = GCD(b, a % b) => Recursive Case <br />
    GCD(a, 0) => a => Base Case
