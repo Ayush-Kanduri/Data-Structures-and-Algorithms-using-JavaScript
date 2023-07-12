@@ -38,7 +38,7 @@ const decimalToOctal = (decimal) => {
 		remainder.push(dividend % divisor);
 		dividend = quotient;
 	} while (quotient > 1);
-	remainder.push(quotient);
+	if (quotient !== 0) remainder.push(quotient);
 	return parseInt(remainder.reverse().join(""));
 };
 
