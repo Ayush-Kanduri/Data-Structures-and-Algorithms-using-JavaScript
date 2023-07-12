@@ -2,9 +2,9 @@
     * @function decimalToOctal
     * @description Converts a decimal number to octal
     * @param {number} Octal - The decimal number to be converted.
-    Decimal Base is 10. 
-    Octal Base is 2.
-    Octal to Octal --> 8|10 --> 8|5 (0) --> 8|2 (1) --> 8|1 (0)
+    Decimal Base is 10 --> [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    Octal Base is 8 --> [0, 1, 2, 3, 4, 5, 6, 7]
+    Decimal to Octal --> 8|10 --> 8|5 (0) --> 8|2 (1) --> 8|1 (0)
     * @timeComplexity O(log n)
     * @spaceComplexity O(1)
     * @returns {number} - The Octal number
