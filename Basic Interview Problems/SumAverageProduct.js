@@ -28,3 +28,5 @@ function sumAverageProduct(arr) {
 const arr = [1, 2, 3, 4, 5, 6, 7];
 let { sum, avg, product } = sumAverageProduct(arr);
 console.log(`Sum = ${sum}, Average = ${avg}, Product = ${product}`);
+
+// Output: Sum = 28, Average = 4, Product = 5040
