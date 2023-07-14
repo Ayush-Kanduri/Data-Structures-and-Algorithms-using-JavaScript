@@ -13,6 +13,10 @@
         4321    
 **/
 
-const reverse = (num) => parseInt(num.toString().split("").reverse().join(""));
-let num = 1234;
+const reverse = (num) => {
+	let number = num.toString().split("").reverse().join("");
+	if (number.endsWith("-")) number = "-" + number;
+	return parseInt(number);
+};
+let num = -1234;
 console.log(reverse(num));
