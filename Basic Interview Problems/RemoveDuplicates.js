@@ -10,7 +10,7 @@
         console.log(removeDuplicates(arr));
 
         Output:
-        4321    
+        [1, 2, 23, 3, 4, 5, 6, 7, 8, 9]    
 **/
 
 const removeDuplicates = (arr) => [...new Set(arr)];
