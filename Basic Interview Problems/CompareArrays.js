@@ -1,3 +1,20 @@
+/**
+    * @function compareArrays
+    * @description - Compares 2 arrays for the equality check such that both of the arrays must have same length & the same elements but the order can be different.
+    * @param {Array} arr1 - An array of numbers
+    * @param {Array} arr2 - An array of numbers
+    * @TimeComplexity - O(n)
+    * @SpaceComplexity - O(n)
+    * @returns {Boolean} - true (equal) or false (unequal)
+    * @example
+        let arr1 = [5, 4, 8, 4, 9];
+		let arr2 = [4, 5, 8, 9, 4];
+		console.log(compareArrays(arr1, arr2));
+        
+        Output: 
+        true
+**/
+
 const compareArrays = (arr1, arr2) => {
 	if (arr1.length !== arr2.length) return false;
 	const map = new Map();
